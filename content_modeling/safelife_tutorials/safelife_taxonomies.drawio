@@ -1,1 +1,714 @@
-<mxfile host="app.diagrams.net" modified="2020-04-14T11:44:51.393Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="wy6lfA_R7Rzy7THsBk5q" version="12.9.12" type="github"><diagram id="l7EoI_o5KhrgH6v80gf4" name="Page-1">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</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-04-14T11:57:55.377Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="LKA_a47D59MMT2FOF8qz" version="12.9.12" type="github">
+  <diagram id="l7EoI_o5KhrgH6v80gf4" name="Page-1">
+    <mxGraphModel dx="3122" dy="1813" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="0" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Mn-jsPeLyAHsvxmleGaf-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=none;opacity=50;" parent="1" vertex="1">
+          <mxGeometry x="-1058" y="-133" width="1050" height="373" as="geometry" />
+        </mxCell>
+        <mxCell id="Mn-jsPeLyAHsvxmleGaf-2" value="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.162;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="Mn-jsPeLyAHsvxmleGaf-86" target="Mn-jsPeLyAHsvxmleGaf-147" edge="1">
+          <mxGeometry x="0.4038" y="7" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-630" y="-526" />
+              <mxPoint x="-630" y="-580" />
+            </Array>
+            <mxPoint x="-645" y="-577" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mn-jsPeLyAHsvxmleGaf-3" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Mn-jsPeLyAHsvxmleGaf-2" vertex="1" connectable="0">
+          <mxGeometry x="-0.8798" y="29" relative="1" as="geometry">
+            <mxPoint x="9" y="-13" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mn-jsPeLyAHsvxmleGaf-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="Mn-jsPeLyAHsvxmleGaf-84" target="Mn-jsPeLyAHsvxmleGaf-15" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-364.15999999999997" y="84" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-618" y="-578" />
+              <mxPoint x="-618" y="-631" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mn-jsPeLyAHsvxmleGaf-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;strokeColor=#000000;fontColor=#00FF00;" parent="1" source="Mn-jsPeLyAHsvxmleGaf-55" target="Mn-jsPeLyAHsvxmleGaf-62" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1038" y="115" />
+              <mxPoint x="-1038" y="-103" />
+              <mxPoint x="-983" y="-103" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mn-jsPeLyAHsvxmleGaf-6" value="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#000000;fontColor=#000000;labelBackgroundColor=none;" parent="1" source="Mn-jsPeLyAHsvxmleGaf-112" target="Mn-jsPeLyAHsvxmleGaf-142" edge="1">
+          <mxGeometry x="-0.8008" y="-49" relative="1" as="geometry">
+            <mxPoint x="-276" y="133" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-28" y="-84" />
+              <mxPoint x="-28" y="227" />
+              <mxPoint x="-248" y="227" />
+              <mxPoint x="-248" y="133" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mn-jsPeLyAHsvxmleGaf-7" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" parent="Mn-jsPeLyAHsvxmleGaf-6" vertex="1" connectable="0">
+          <mxGeometry x="-0.4545" y="1" relative="1" as="geometry">
+            <mxPoint x="-66" y="-405" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mn-jsPeLyAHsvxmleGaf-8" value="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#000000;fontColor=#000000;entryX=0.703;entryY=1.141;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=none;" parent="1" source="Mn-jsPeLyAHsvxmleGaf-116" target="Mn-jsPeLyAHsvxmleGaf-92" edge="1">
+          <mxGeometry x="-0.9397" y="11" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-307" y="20" />
+            </Array>
+            <mxPoint as="offset" />
+            <mxPoint x="-316" y="-264" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mn-jsPeLyAHsvxmleGaf-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.103;entryDx=0;entryDy=0;strokeColor=#000000;fontColor=#00FF00;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryPerimeter=0;" parent="1" source="Mn-jsPeLyAHsvxmleGaf-78" target="Mn-jsPeLyAHsvxmleGaf-111" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-188" y="-492" />
+              <mxPoint x="-188" y="-473" />
+              <mxPoint x="-8" y="-473" />
+              <mxPoint x="-8" y="-107" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mn-jsPeLyAHsvxmleGaf-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.667;entryY=-0.006;entryDx=0;entryDy=0;strokeColor=#000000;fontColor=#00FF00;entryPerimeter=0;" parent="1" source="Mn-jsPeLyAHsvxmleGaf-77" target="Mn-jsPeLyAHsvxmleGaf-48" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-398" y="-552" />
+              <mxPoint x="-398" y="-453" />
+              <mxPoint x="-808" y="-453" />
+              <mxPoint x="-808" y="-693" />
+              <mxPoint x="-918" y="-693" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mn-jsPeLyAHsvxmleGaf-156" value="0-1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Mn-jsPeLyAHsvxmleGaf-11" vertex="1" connectable="0">
+          <mxGeometry x="-0.5773" relative="1" as="geometry">
+            <mxPoint x="77.67" y="-107" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mn-jsPeLyAHsvxmleGaf-12" value="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#000000;fontColor=#000000;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Mn-jsPeLyAHsvxmleGaf-87" target="Mn-jsPeLyAHsvxmleGaf-48" edge="1">
+          <mxGeometry x="-0.9655" y="8" relative="1" as="geometry">
+            <mxPoint x="-1173" y="881" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-608" y="-500" />
+              <mxPoint x="-608" y="-703" />
+              <mxPoint x="-948" y="-703" />
+            </Array>
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mn-jsPeLyAHsvxmleGaf-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#000000;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Mn-jsPeLyAHsvxmleGaf-128" target="Mn-jsPeLyAHsvxmleGaf-70" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-485.15999999999997" y="-423" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-198" y="-500" />
+              <mxPoint x="-198" y="-713" />
+              <mxPoint x="-253" y="-713" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mn-jsPeLyAHsvxmleGaf-14" value="3" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Mn-jsPeLyAHsvxmleGaf-13" vertex="1" connectable="0">
+          <mxGeometry x="-0.6667" y="-1" relative="1" as="geometry">
+            <mxPoint x="8" y="21.829999999999984" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mn-jsPeLyAHsvxmleGaf-15" value="Blog categories" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#d6b656;strokeWidth=1;fillColor=#fff2cc;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="-790" y="-643" width="140" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="Mn-jsPeLyAHsvxmleGaf-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Mn-jsPeLyAHsvxmleGaf-67" target="Mn-jsPeLyAHsvxmleGaf-80" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-398" y="-738" />
+              <mxPoint x="-508" y="-738" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mn-jsPeLyAHsvxmleGaf-155" value="N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Mn-jsPeLyAHsvxmleGaf-17" vertex="1" connectable="0">
+          <mxGeometry x="-0.0019" y="2" relative="1" as="geometry">
+            <mxPoint x="58.5" y="-15" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mn-jsPeLyAHsvxmleGaf-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Mn-jsPeLyAHsvxmleGaf-67" target="Mn-jsPeLyAHsvxmleGaf-70" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-398" y="-738" />
+              <mxPoint x="-298" y="-738" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mn-jsPeLyAHsvxmleGaf-19" value="" style="group;fillColor=#E6E6E6;" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="-1018" y="-840" width="120" height="94" as="geometry" />
+        </mxCell>
+        <mxCell id="Mn-jsPeLyAHsvxmleGaf-20" value="&lt;b&gt;Legend:&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="Mn-jsPeLyAHsvxmleGaf-19" vertex="1">
+          <mxGeometry width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Mn-jsPeLyAHsvxmleGaf-21" value="Content type" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;strokeWidth=1;fillColor=#dae8fc;gradientColor=none;" parent="Mn-jsPeLyAHsvxmleGaf-19" vertex="1">
+          <mxGeometry y="22" width="120" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="Mn-jsPeLyAHsvxmleGaf-22" value="Content type snippet" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#9673a6;strokeWidth=1;fillColor=#e1d5e7;" parent="Mn-jsPeLyAHsvxmleGaf-19" vertex="1">
+          <mxGeometry y="46" width="120" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="Mn-jsPeLyAHsvxmleGaf-23" value="Taxonomy" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#d6b656;strokeWidth=1;fillColor=#fff2cc;" parent="Mn-jsPeLyAHsvxmleGaf-19" vertex="1">
+          <mxGeometry y="70" width="120" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="Mn-jsPeLyAHsvxmleGaf-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Mn-jsPeLyAHsvxmleGaf-117" target="Mn-jsPeLyAHsvxmleGaf-116" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-568" y="-73" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-48" y="170" />
+              <mxPoint x="-48" y="20" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mn-jsPeLyAHsvxmleGaf-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Mn-jsPeLyAHsvxmleGaf-106" target="Mn-jsPeLyAHsvxmleGaf-89" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-198" y="-346" />
+              <mxPoint x="-218" y="-346" />
+              <mxPoint x="-218" y="-393" />
+              <mxPoint x="-301" y="-393" />
+            </Array>
+            <mxPoint x="-275" y="-326" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mn-jsPeLyAHsvxmleGaf-26" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Mn-jsPeLyAHsvxmleGaf-25" vertex="1" connectable="0">
+          <mxGeometry x="-0.5425" y="-2" relative="1" as="geometry">
+            <mxPoint x="8" y="6.17" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mn-jsPeLyAHsvxmleGaf-27" value="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.173;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="Mn-jsPeLyAHsvxmleGaf-107" target="Mn-jsPeLyAHsvxmleGaf-89" edge="1">
+          <mxGeometry x="-0.7383" y="10" relative="1" as="geometry">
+            <mxPoint x="-288" y="-356" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-228" y="-320" />
+              <mxPoint x="-228" y="-355" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mn-jsPeLyAHsvxmleGaf-28" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Mn-jsPeLyAHsvxmleGaf-27" vertex="1" connectable="0">
+          <mxGeometry x="-0.9029" y="-11" relative="1" as="geometry">
+            <mxPoint x="8.33" y="19" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mn-jsPeLyAHsvxmleGaf-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Mn-jsPeLyAHsvxmleGaf-49" target="Mn-jsPeLyAHsvxmleGaf-89" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-848" y="-643.9411764705882" as="sourcePoint" />
+            <mxPoint x="-348" y="-263" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-848" y="-638" />
+              <mxPoint x="-848" y="-403" />
+              <mxPoint x="-333" y="-403" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mn-jsPeLyAHsvxmleGaf-154" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Mn-jsPeLyAHsvxmleGaf-29" vertex="1" connectable="0">
+          <mxGeometry x="-0.6527" y="3" relative="1" as="geometry">
+            <mxPoint x="-5" y="-139.5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mn-jsPeLyAHsvxmleGaf-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="Mn-jsPeLyAHsvxmleGaf-128" target="Mn-jsPeLyAHsvxmleGaf-80" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-198" y="-500" />
+              <mxPoint x="-198" y="-723" />
+              <mxPoint x="-463" y="-723" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mn-jsPeLyAHsvxmleGaf-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1.002;entryY=0.1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="Mn-jsPeLyAHsvxmleGaf-99" target="Mn-jsPeLyAHsvxmleGaf-62" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-837" y="-15" />
+              <mxPoint x="-837" y="-70" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mn-jsPeLyAHsvxmleGaf-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.505;entryY=0.987;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="Mn-jsPeLyAHsvxmleGaf-57" target="Mn-jsPeLyAHsvxmleGaf-153" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1038" y="150" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-1048" y="186" />
+              <mxPoint x="-1048" y="-234" />
+              <mxPoint x="-947" y="-234" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mn-jsPeLyAHsvxmleGaf-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="Mn-jsPeLyAHsvxmleGaf-57" target="Mn-jsPeLyAHsvxmleGaf-129" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1048" y="186" />
+              <mxPoint x="-1048" y="-183" />
+              <mxPoint x="-738" y="-183" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mn-jsPeLyAHsvxmleGaf-35" value="3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.506;entryY=1.034;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=none;" parent="1" source="Mn-jsPeLyAHsvxmleGaf-57" target="Mn-jsPeLyAHsvxmleGaf-141" edge="1">
+          <mxGeometry x="-0.9285" y="-10" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1048" y="186" />
+              <mxPoint x="-1048" y="-153" />
+              <mxPoint x="-527" y="-153" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mn-jsPeLyAHsvxmleGaf-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Mn-jsPeLyAHsvxmleGaf-59" target="Mn-jsPeLyAHsvxmleGaf-62" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-538" y="-113" />
+              <mxPoint x="-938" y="-113" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mn-jsPeLyAHsvxmleGaf-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1.011;exitY=0.266;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;" parent="1" source="Mn-jsPeLyAHsvxmleGaf-94" target="Mn-jsPeLyAHsvxmleGaf-62" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-628" y="132.5" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-638" y="85" />
+              <mxPoint x="-638" y="-103" />
+              <mxPoint x="-893" y="-103" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mn-jsPeLyAHsvxmleGaf-40" value="0-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;" parent="1" source="Mn-jsPeLyAHsvxmleGaf-97" target="Mn-jsPeLyAHsvxmleGaf-48" edge="1">
+          <mxGeometry x="-0.9398" y="12" relative="1" as="geometry">
+            <mxPoint x="-307" y="780" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-838" y="197" />
+              <mxPoint x="-838" y="220" />
+              <mxPoint x="-1088" y="220" />
+              <mxPoint x="-1088" y="-703" />
+              <mxPoint x="-993" y="-703" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mn-jsPeLyAHsvxmleGaf-41" value="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.337;entryY=1.045;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="Mn-jsPeLyAHsvxmleGaf-141" target="Mn-jsPeLyAHsvxmleGaf-92" edge="1">
+          <mxGeometry x="-0.7318" y="-11" relative="1" as="geometry">
+            <mxPoint x="-361" y="-264" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-354" y="-211" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mn-jsPeLyAHsvxmleGaf-42" value="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.183;entryY=1.077;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryPerimeter=0;" parent="1" source="Mn-jsPeLyAHsvxmleGaf-140" target="Mn-jsPeLyAHsvxmleGaf-92" edge="1">
+          <mxGeometry x="0.6432" y="56" relative="1" as="geometry">
+            <mxPoint x="-348" y="307" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-374" y="-237" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mn-jsPeLyAHsvxmleGaf-43" value="0-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1.077;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=none;" parent="1" source="Mn-jsPeLyAHsvxmleGaf-95" target="Mn-jsPeLyAHsvxmleGaf-92" edge="1">
+          <mxGeometry x="-0.967" y="-12" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-458" y="145" />
+              <mxPoint x="-458" y="74" />
+              <mxPoint x="-333" y="74" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mn-jsPeLyAHsvxmleGaf-44" value="N" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Mn-jsPeLyAHsvxmleGaf-153" target="Mn-jsPeLyAHsvxmleGaf-89" edge="1">
+          <mxGeometry x="-0.9672" y="-9" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-848" y="-289" />
+              <mxPoint x="-848" y="-390" />
+              <mxPoint x="-365" y="-390" />
+            </Array>
+            <mxPoint x="-9" y="9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mn-jsPeLyAHsvxmleGaf-45" value="&lt;font color=&quot;#ff6666&quot;&gt;Format-related objects&lt;br&gt;Don&#39;t store reusable content here&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;opacity=50;" parent="1" vertex="1">
+          <mxGeometry x="-601" y="20" width="183" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="Mn-jsPeLyAHsvxmleGaf-48" value="CTA" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="-1038" y="-677" width="180" height="130" as="geometry">
+            <mxRectangle x="230" y="140" width="160" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mn-jsPeLyAHsvxmleGaf-49" value="Image (Linked items)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fillColor=#ffffff;" parent="Mn-jsPeLyAHsvxmleGaf-48" vertex="1">
+          <mxGeometry y="26" width="180" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Mn-jsPeLyAHsvxmleGaf-50" value="Link (Text)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fillColor=#ffffff;" parent="Mn-jsPeLyAHsvxmleGaf-48" vertex="1">
+          <mxGeometry y="52" width="180" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Mn-jsPeLyAHsvxmleGaf-51" value="Text (Text)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fillColor=#ffffff;" parent="Mn-jsPeLyAHsvxmleGaf-48" vertex="1">
+          <mxGeometry y="78" width="180" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Mn-jsPeLyAHsvxmleGaf-52" value="Internal description (Text)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fillColor=#ffffff;" parent="Mn-jsPeLyAHsvxmleGaf-48" vertex="1">
+          <mxGeometry y="104" width="180" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Mn-jsPeLyAHsvxmleGaf-54" value="Widget - Curated content" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="-1028" y="57" width="180" height="143" as="geometry">
+            <mxRectangle x="230" y="140" width="160" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mn-jsPeLyAHsvxmleGaf-55" value="Widget wrapper (Snippet)&#xa;- Title&#xa;- Subtitle&#xa;- Description" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fillColor=#ffffff;" parent="Mn-jsPeLyAHsvxmleGaf-54" vertex="1">
+          <mxGeometry y="26" width="180" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="Mn-jsPeLyAHsvxmleGaf-56" value="How to link (Guildelines)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fillColor=#ffffff;strokeColor=none;" parent="Mn-jsPeLyAHsvxmleGaf-54" vertex="1">
+          <mxGeometry y="90" width="180" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Mn-jsPeLyAHsvxmleGaf-57" value="Top N items (Linked items)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fillColor=#ffffff;strokeColor=none;" parent="Mn-jsPeLyAHsvxmleGaf-54" vertex="1">
+          <mxGeometry y="116" width="180" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Mn-jsPeLyAHsvxmleGaf-59" value="Widget - Form" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="-628" y="-122" width="180" height="116" as="geometry">
+            <mxRectangle x="230" y="140" width="160" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mn-jsPeLyAHsvxmleGaf-60" value="Widget wrapper (Snippet)&#xa;- Title&#xa;- Subtitle&#xa;- Description" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fillColor=#ffffff;" parent="Mn-jsPeLyAHsvxmleGaf-59" vertex="1">
+          <mxGeometry y="26" width="180" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="Mn-jsPeLyAHsvxmleGaf-61" value="Form ID (Text)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fillColor=#ffffff;strokeColor=none;" parent="Mn-jsPeLyAHsvxmleGaf-59" vertex="1">
+          <mxGeometry y="90" width="180" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Mn-jsPeLyAHsvxmleGaf-62" value="Widget wrapper" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="-1028" y="-83" width="180" height="134" as="geometry">
+            <mxRectangle x="230" y="140" width="160" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mn-jsPeLyAHsvxmleGaf-63" value="How widgets work (Guidelines)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fillColor=#ffffff;" parent="Mn-jsPeLyAHsvxmleGaf-62" vertex="1">
+          <mxGeometry y="26" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Mn-jsPeLyAHsvxmleGaf-64" value="Title (Text)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fillColor=#ffffff;" parent="Mn-jsPeLyAHsvxmleGaf-62" vertex="1">
+          <mxGeometry y="56" width="180" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Mn-jsPeLyAHsvxmleGaf-65" value="Subtitle (Text)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fillColor=#ffffff;" parent="Mn-jsPeLyAHsvxmleGaf-62" vertex="1">
+          <mxGeometry y="82" width="180" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Mn-jsPeLyAHsvxmleGaf-66" value="Description (Rich text)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fillColor=#ffffff;" parent="Mn-jsPeLyAHsvxmleGaf-62" vertex="1">
+          <mxGeometry y="108" width="180" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Mn-jsPeLyAHsvxmleGaf-67" value="Topic" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="-488" y="-840" width="180" height="80" as="geometry">
+            <mxRectangle x="230" y="140" width="160" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mn-jsPeLyAHsvxmleGaf-68" value="Name (Text)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fillColor=#ffffff;" parent="Mn-jsPeLyAHsvxmleGaf-67" vertex="1">
+          <mxGeometry y="26" width="180" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Mn-jsPeLyAHsvxmleGaf-69" value="Related posts (Linked items)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;fillColor=#ffffff;" parent="Mn-jsPeLyAHsvxmleGaf-67" vertex="1">
+          <mxGeometry y="52" width="180" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Mn-jsPeLyAHsvxmleGaf-70" value="Article" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="-388" y="-695" width="180" height="255" as="geometry">
+            <mxRectangle x="230" y="140" width="160" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mn-jsPeLyAHsvxmleGaf-71" value="Title (Text)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=#000000;fillColor=#ffffff;" parent="Mn-jsPeLyAHsvxmleGaf-70" vertex="1">
+          <mxGeometry y="26" width="180" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Mn-jsPeLyAHsvxmleGaf-72" value="Content (Rich text)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;fontColor=#000000;fillColor=#ffffff;" parent="Mn-jsPeLyAHsvxmleGaf-70" vertex="1">
+          <mxGeometry y="52" width="180" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Mn-jsPeLyAHsvxmleGaf-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" parent="Mn-jsPeLyAHsvxmleGaf-70" source="Mn-jsPeLyAHsvxmleGaf-76" target="Mn-jsPeLyAHsvxmleGaf-70" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-20" y="117" />
+              <mxPoint x="-20" y="-20" />
+              <mxPoint x="45" y="-20" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mn-jsPeLyAHsvxmleGaf-74" value="3" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" parent="Mn-jsPeLyAHsvxmleGaf-73" vertex="1" connectable="0">
+          <mxGeometry x="-0.7276" y="-6" relative="1" as="geometry">
+            <mxPoint x="3" y="3.33" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mn-jsPeLyAHsvxmleGaf-75" value="Shopify integration (Custom el.)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;fontColor=#000000;fillColor=#ffffff;" parent="Mn-jsPeLyAHsvxmleGaf-70" vertex="1">
+          <mxGeometry y="78" width="180" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Mn-jsPeLyAHsvxmleGaf-76" value="Related articles (Linked items)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;fillColor=#ffffff;" parent="Mn-jsPeLyAHsvxmleGaf-70" vertex="1">
+          <mxGeometry y="104" width="180" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Mn-jsPeLyAHsvxmleGaf-77" value="CTA (Linked items)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;fontColor=#000000;fillColor=#ffffff;" parent="Mn-jsPeLyAHsvxmleGaf-70" vertex="1">
+          <mxGeometry y="130" width="180" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Mn-jsPeLyAHsvxmleGaf-78" value="SEO metadata (Snippet)&#xa;- Sitemap location&#xa;- Keywords&#xa;- Description&#xa;- og:type&#xa;- og:image" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;fontColor=#000000;fillColor=#ffffff;" parent="Mn-jsPeLyAHsvxmleGaf-70" vertex="1">
+          <mxGeometry y="156" width="180" height="94" as="geometry" />
+        </mxCell>
+        <mxCell id="Mn-jsPeLyAHsvxmleGaf-80" value="Blog post" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="-598" y="-695" width="180" height="234" as="geometry">
+            <mxRectangle x="550" y="140" width="160" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mn-jsPeLyAHsvxmleGaf-81" value="Title (Text)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fillColor=#ffffff;" parent="Mn-jsPeLyAHsvxmleGaf-80" vertex="1">
+          <mxGeometry y="26" width="180" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Mn-jsPeLyAHsvxmleGaf-82" value="Lead paragraph (Rich text)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;fillColor=#ffffff;" parent="Mn-jsPeLyAHsvxmleGaf-80" vertex="1">
+          <mxGeometry y="52" width="180" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Mn-jsPeLyAHsvxmleGaf-83" value="Content (Rich text)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;fillColor=#ffffff;" parent="Mn-jsPeLyAHsvxmleGaf-80" vertex="1">
+          <mxGeometry y="78" width="180" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Mn-jsPeLyAHsvxmleGaf-84" value="Blog categories (Taxonomy)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;fontColor=#000000;fillColor=#ffffff;" parent="Mn-jsPeLyAHsvxmleGaf-80" vertex="1">
+          <mxGeometry y="104" width="180" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Mn-jsPeLyAHsvxmleGaf-85" value="Publish date (Date &amp; time)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;fillColor=#ffffff;" parent="Mn-jsPeLyAHsvxmleGaf-80" vertex="1">
+          <mxGeometry y="130" width="180" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Mn-jsPeLyAHsvxmleGaf-86" value="Author (Linked items)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;fillColor=#ffffff;" parent="Mn-jsPeLyAHsvxmleGaf-80" vertex="1">
+          <mxGeometry y="156" width="180" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Mn-jsPeLyAHsvxmleGaf-87" value="CTA (Linked items)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;fontColor=#000000;fillColor=#ffffff;" parent="Mn-jsPeLyAHsvxmleGaf-80" vertex="1">
+          <mxGeometry y="182" width="180" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Mn-jsPeLyAHsvxmleGaf-88" value="Voice &amp; tone (Taxonomy)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fillColor=#ffffff;" parent="Mn-jsPeLyAHsvxmleGaf-80" vertex="1">
+          <mxGeometry y="208" width="180" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Mn-jsPeLyAHsvxmleGaf-89" value="Asset" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="-398" y="-373" width="130" height="104" as="geometry">
+            <mxRectangle x="230" y="140" width="160" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mn-jsPeLyAHsvxmleGaf-90" value="Name (Text)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fillColor=#ffffff;" parent="Mn-jsPeLyAHsvxmleGaf-89" vertex="1">
+          <mxGeometry y="26" width="130" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Mn-jsPeLyAHsvxmleGaf-91" value="Alt text (Text)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;fillColor=#ffffff;" parent="Mn-jsPeLyAHsvxmleGaf-89" vertex="1">
+          <mxGeometry y="52" width="130" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Mn-jsPeLyAHsvxmleGaf-92" value="Asset (Asset)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;fillColor=#ffffff;" parent="Mn-jsPeLyAHsvxmleGaf-89" vertex="1">
+          <mxGeometry y="78" width="130" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Mn-jsPeLyAHsvxmleGaf-93" value="Widget - Formatted content" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="-828" y="42" width="180" height="168" as="geometry">
+            <mxRectangle x="230" y="140" width="160" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mn-jsPeLyAHsvxmleGaf-94" value="Widget wrapper (Snippet)&#xa;- Title&#xa;- Subtitle&#xa;- Description" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fillColor=#ffffff;" parent="Mn-jsPeLyAHsvxmleGaf-93" vertex="1">
+          <mxGeometry y="26" width="180" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="Mn-jsPeLyAHsvxmleGaf-95" value="Illustrative image (Linked items)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fillColor=#ffffff;" parent="Mn-jsPeLyAHsvxmleGaf-93" vertex="1">
+          <mxGeometry y="90" width="180" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Mn-jsPeLyAHsvxmleGaf-96" value="Voice &amp; tone (Taxonomy)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fillColor=#ffffff;" parent="Mn-jsPeLyAHsvxmleGaf-93" vertex="1">
+          <mxGeometry y="116" width="180" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Mn-jsPeLyAHsvxmleGaf-97" value="CTA (Linked items)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;fillColor=#ffffff;" parent="Mn-jsPeLyAHsvxmleGaf-93" vertex="1">
+          <mxGeometry y="142" width="180" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Mn-jsPeLyAHsvxmleGaf-98" value="Widget - Latest blogs" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="-828" y="-73" width="180" height="90.25" as="geometry">
+            <mxRectangle x="230" y="140" width="160" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mn-jsPeLyAHsvxmleGaf-99" value="Widget wrapper (Snippet)&#xa;- Title&#xa;- Subtitle&#xa;- Description" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fillColor=#ffffff;" parent="Mn-jsPeLyAHsvxmleGaf-98" vertex="1">
+          <mxGeometry y="26" width="180" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="Mn-jsPeLyAHsvxmleGaf-102" value="Global brand identity" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="-198" y="-461" width="180" height="234" as="geometry">
+            <mxRectangle x="230" y="140" width="160" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mn-jsPeLyAHsvxmleGaf-103" value="Name (Text)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;fontColor=#000000;fillColor=#ffffff;" parent="Mn-jsPeLyAHsvxmleGaf-102" vertex="1">
+          <mxGeometry y="26" width="180" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Mn-jsPeLyAHsvxmleGaf-104" value="Mission (Text)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;fontColor=#000000;fillColor=#ffffff;" parent="Mn-jsPeLyAHsvxmleGaf-102" vertex="1">
+          <mxGeometry y="52" width="180" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Mn-jsPeLyAHsvxmleGaf-105" value="Vision (Text)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;fontColor=#000000;fillColor=#ffffff;" parent="Mn-jsPeLyAHsvxmleGaf-102" vertex="1">
+          <mxGeometry y="78" width="180" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Mn-jsPeLyAHsvxmleGaf-106" value="Logotype—positive (Linked it.)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;fontColor=#000000;fillColor=#ffffff;" parent="Mn-jsPeLyAHsvxmleGaf-102" vertex="1">
+          <mxGeometry y="104" width="180" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Mn-jsPeLyAHsvxmleGaf-107" value="Logotype—negative (Linked it.)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;fontColor=#000000;fillColor=#ffffff;" parent="Mn-jsPeLyAHsvxmleGaf-102" vertex="1">
+          <mxGeometry y="130" width="180" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Mn-jsPeLyAHsvxmleGaf-108" value="Brand color 1 (Text)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;fontColor=#000000;fillColor=#ffffff;" parent="Mn-jsPeLyAHsvxmleGaf-102" vertex="1">
+          <mxGeometry y="156" width="180" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Mn-jsPeLyAHsvxmleGaf-109" value="Brand color 2 (Text)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;fontColor=#000000;fillColor=#ffffff;" parent="Mn-jsPeLyAHsvxmleGaf-102" vertex="1">
+          <mxGeometry y="182" width="180" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Mn-jsPeLyAHsvxmleGaf-110" value="Brand color 3 (Text)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;fontColor=#000000;fillColor=#ffffff;" parent="Mn-jsPeLyAHsvxmleGaf-102" vertex="1">
+          <mxGeometry y="208" width="180" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Mn-jsPeLyAHsvxmleGaf-111" value="SEO metadata" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="-268" y="-123" width="180" height="156" as="geometry">
+            <mxRectangle x="230" y="140" width="160" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mn-jsPeLyAHsvxmleGaf-112" value="Sitemap location (Linked items)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fillColor=#ffffff;" parent="Mn-jsPeLyAHsvxmleGaf-111" vertex="1">
+          <mxGeometry y="26" width="180" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Mn-jsPeLyAHsvxmleGaf-113" value="Keywords (Text)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fillColor=#ffffff;" parent="Mn-jsPeLyAHsvxmleGaf-111" vertex="1">
+          <mxGeometry y="52" width="180" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Mn-jsPeLyAHsvxmleGaf-114" value="Description (Text)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fillColor=#ffffff;" parent="Mn-jsPeLyAHsvxmleGaf-111" vertex="1">
+          <mxGeometry y="78" width="180" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Mn-jsPeLyAHsvxmleGaf-115" value="og:type (Text)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fillColor=#ffffff;" parent="Mn-jsPeLyAHsvxmleGaf-111" vertex="1">
+          <mxGeometry y="104" width="180" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Mn-jsPeLyAHsvxmleGaf-116" value="og:image (Linked items)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fillColor=#ffffff;" parent="Mn-jsPeLyAHsvxmleGaf-111" vertex="1">
+          <mxGeometry y="130" width="180" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Mn-jsPeLyAHsvxmleGaf-117" value="Landing page" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="-238" y="42.000000000000114" width="180" height="170" as="geometry">
+            <mxRectangle x="230" y="140" width="160" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mn-jsPeLyAHsvxmleGaf-118" value="Page title (Text)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;fillColor=#ffffff;" parent="Mn-jsPeLyAHsvxmleGaf-117" vertex="1">
+          <mxGeometry y="26" width="180" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Mn-jsPeLyAHsvxmleGaf-119" value="Sections (Rich text)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;fillColor=#ffffff;" parent="Mn-jsPeLyAHsvxmleGaf-117" vertex="1">
+          <mxGeometry y="52" width="180" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Mn-jsPeLyAHsvxmleGaf-120" value="SEO metadata (Snippet)&#xa;- Sitemap location&#xa;- Keywords&#xa;- Description&#xa;- og:type&#xa;- og:image" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;fillColor=#ffffff;" parent="Mn-jsPeLyAHsvxmleGaf-117" vertex="1">
+          <mxGeometry y="78" width="180" height="92" as="geometry" />
+        </mxCell>
+        <mxCell id="Mn-jsPeLyAHsvxmleGaf-121" value="National brand details" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="-180" y="-695" width="172" height="208" as="geometry">
+            <mxRectangle x="230" y="140" width="160" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mn-jsPeLyAHsvxmleGaf-122" value="Name (Text)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;fontColor=#000000;fillColor=#ffffff;" parent="Mn-jsPeLyAHsvxmleGaf-121" vertex="1">
+          <mxGeometry y="26" width="172" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Mn-jsPeLyAHsvxmleGaf-123" value="About company (Rich text)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;fillColor=#ffffff;" parent="Mn-jsPeLyAHsvxmleGaf-121" vertex="1">
+          <mxGeometry y="52" width="172" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Mn-jsPeLyAHsvxmleGaf-124" value="Address (Rich text)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;fontColor=#000000;fillColor=#ffffff;" parent="Mn-jsPeLyAHsvxmleGaf-121" vertex="1">
+          <mxGeometry y="78" width="172" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Mn-jsPeLyAHsvxmleGaf-125" value="Opening hours (Rich text)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;fillColor=#ffffff;" parent="Mn-jsPeLyAHsvxmleGaf-121" vertex="1">
+          <mxGeometry y="104" width="172" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Mn-jsPeLyAHsvxmleGaf-126" value="Telephone (Text)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;fillColor=#ffffff;" parent="Mn-jsPeLyAHsvxmleGaf-121" vertex="1">
+          <mxGeometry y="130" width="172" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Mn-jsPeLyAHsvxmleGaf-127" value="Email (Text)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;fillColor=#ffffff;" parent="Mn-jsPeLyAHsvxmleGaf-121" vertex="1">
+          <mxGeometry y="156" width="172" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Mn-jsPeLyAHsvxmleGaf-128" value="Promoted posts (Linked items)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;fontColor=#000000;fillColor=#ffffff;" parent="Mn-jsPeLyAHsvxmleGaf-121" vertex="1">
+          <mxGeometry y="182" width="172" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Mn-jsPeLyAHsvxmleGaf-129" value="Feature" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="-828" y="-380" width="180" height="156" as="geometry">
+            <mxRectangle x="230" y="140" width="160" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mn-jsPeLyAHsvxmleGaf-130" value="Icon class (Text)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fillColor=#ffffff;" parent="Mn-jsPeLyAHsvxmleGaf-129" vertex="1">
+          <mxGeometry y="26" width="180" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Mn-jsPeLyAHsvxmleGaf-131" value="Title (Text)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;fillColor=#ffffff;" parent="Mn-jsPeLyAHsvxmleGaf-129" vertex="1">
+          <mxGeometry y="52" width="180" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Mn-jsPeLyAHsvxmleGaf-132" value="Description (Rich text)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;fillColor=#ffffff;" parent="Mn-jsPeLyAHsvxmleGaf-129" vertex="1">
+          <mxGeometry y="78" width="180" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Mn-jsPeLyAHsvxmleGaf-133" value="Feature link label (Text)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;fillColor=#ffffff;" parent="Mn-jsPeLyAHsvxmleGaf-129" vertex="1">
+          <mxGeometry y="104" width="180" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Mn-jsPeLyAHsvxmleGaf-134" value="Feature link URL (Text)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;fillColor=#ffffff;" parent="Mn-jsPeLyAHsvxmleGaf-129" vertex="1">
+          <mxGeometry y="130" width="180" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Mn-jsPeLyAHsvxmleGaf-135" value="Testimonial" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="-619" y="-380" width="180" height="182" as="geometry">
+            <mxRectangle x="230" y="140" width="160" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mn-jsPeLyAHsvxmleGaf-136" value="Tagline (Text)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fillColor=#ffffff;" parent="Mn-jsPeLyAHsvxmleGaf-135" vertex="1">
+          <mxGeometry y="26" width="180" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Mn-jsPeLyAHsvxmleGaf-137" value="Quote (Text)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;fillColor=#ffffff;" parent="Mn-jsPeLyAHsvxmleGaf-135" vertex="1">
+          <mxGeometry y="52" width="180" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Mn-jsPeLyAHsvxmleGaf-138" value="Author&#39;s name (Text)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;fontColor=#000000;fillColor=#ffffff;" parent="Mn-jsPeLyAHsvxmleGaf-135" vertex="1">
+          <mxGeometry y="78" width="180" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Mn-jsPeLyAHsvxmleGaf-139" value="Author&#39;s role (Text)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;fillColor=#ffffff;" parent="Mn-jsPeLyAHsvxmleGaf-135" vertex="1">
+          <mxGeometry y="104" width="180" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Mn-jsPeLyAHsvxmleGaf-140" value="Author&#39;s photo (Linked items)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;fillColor=#ffffff;" parent="Mn-jsPeLyAHsvxmleGaf-135" vertex="1">
+          <mxGeometry y="130" width="180" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Mn-jsPeLyAHsvxmleGaf-141" value="Illustrative image (Linked items)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;fillColor=#ffffff;" parent="Mn-jsPeLyAHsvxmleGaf-135" vertex="1">
+          <mxGeometry y="156" width="180" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Mn-jsPeLyAHsvxmleGaf-142" value="Navigation item" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="-428" y="106" width="150" height="104" as="geometry">
+            <mxRectangle x="760" y="440" width="160" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mn-jsPeLyAHsvxmleGaf-143" value="Title (Text)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;fillColor=#ffffff;" parent="Mn-jsPeLyAHsvxmleGaf-142" vertex="1">
+          <mxGeometry y="26" width="150" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Mn-jsPeLyAHsvxmleGaf-144" value="URL (URL slug)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;fillColor=#ffffff;" parent="Mn-jsPeLyAHsvxmleGaf-142" vertex="1">
+          <mxGeometry y="52" width="150" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Mn-jsPeLyAHsvxmleGaf-145" value="N" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontColor=#000000;labelBackgroundColor=none;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" parent="Mn-jsPeLyAHsvxmleGaf-142" source="Mn-jsPeLyAHsvxmleGaf-146" target="Mn-jsPeLyAHsvxmleGaf-142" edge="1">
+          <mxGeometry x="-0.8898" y="-8" relative="1" as="geometry">
+            <mxPoint x="179.0999999999999" y="96.4079999999999" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-10" y="91" />
+              <mxPoint x="-10" y="-16" />
+              <mxPoint x="38" y="-16" />
+              <mxPoint x="38" />
+            </Array>
+            <mxPoint x="113" as="targetPoint" />
+            <mxPoint x="-14" y="-5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mn-jsPeLyAHsvxmleGaf-146" value="Sub-items (Linked items)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;fillColor=#ffffff;" parent="Mn-jsPeLyAHsvxmleGaf-142" vertex="1">
+          <mxGeometry y="78" width="150" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Mn-jsPeLyAHsvxmleGaf-147" value="Author" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="-790" y="-593" width="142" height="80" as="geometry">
+            <mxRectangle x="230" y="140" width="160" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mn-jsPeLyAHsvxmleGaf-148" value="Name (Text)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fillColor=#ffffff;" parent="Mn-jsPeLyAHsvxmleGaf-147" vertex="1">
+          <mxGeometry y="26" width="142" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Mn-jsPeLyAHsvxmleGaf-149" value="Surname (Text)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;fillColor=#ffffff;" parent="Mn-jsPeLyAHsvxmleGaf-147" vertex="1">
+          <mxGeometry y="52" width="142" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Mn-jsPeLyAHsvxmleGaf-150" value="Offering" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="-1038" y="-380" width="180" height="104" as="geometry">
+            <mxRectangle x="230" y="140" width="160" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mn-jsPeLyAHsvxmleGaf-151" value="Title (Text)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;fillColor=#ffffff;" parent="Mn-jsPeLyAHsvxmleGaf-150" vertex="1">
+          <mxGeometry y="26" width="180" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Mn-jsPeLyAHsvxmleGaf-152" value="Short description (Text)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;fillColor=#ffffff;" parent="Mn-jsPeLyAHsvxmleGaf-150" vertex="1">
+          <mxGeometry y="52" width="180" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Mn-jsPeLyAHsvxmleGaf-153" value="Illustrative image (Linked items)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;fillColor=#ffffff;" parent="Mn-jsPeLyAHsvxmleGaf-150" vertex="1">
+          <mxGeometry y="78" width="180" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="_1l5siMA5Fyjufqf-GO5-1" value="" style="rounded=0;whiteSpace=wrap;html=1;opacity=80;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-1090" y="-420" width="640" height="660" as="geometry" />
+        </mxCell>
+        <mxCell id="_1l5siMA5Fyjufqf-GO5-2" value="" style="rounded=0;whiteSpace=wrap;html=1;opacity=80;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-200" y="-840" width="200" height="420" as="geometry" />
+        </mxCell>
+        <mxCell id="_1l5siMA5Fyjufqf-GO5-3" value="" style="rounded=0;whiteSpace=wrap;html=1;opacity=80;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-1091" y="-610" width="291" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="_1l5siMA5Fyjufqf-GO5-5" value="" style="rounded=0;whiteSpace=wrap;html=1;opacity=80;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-1091" y="-720" width="291" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="oUhZQA1rCCD5YkPHav_a-1" value="" style="rounded=0;whiteSpace=wrap;html=1;opacity=80;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-450" y="-420" width="450" height="500" as="geometry" />
+        </mxCell>
+        <mxCell id="oUhZQA1rCCD5YkPHav_a-2" value="" style="rounded=0;whiteSpace=wrap;html=1;opacity=80;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-260" y="80" width="262" height="160" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
