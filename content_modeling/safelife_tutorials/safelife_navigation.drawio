@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-17T07:06:13.369Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36" etag="9o132hUbFHuF2_NflvF5" version="13.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-17T07:06:40.435Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36" etag="SIaLKJb9n3rQ84XKWubL" version="13.6.2" type="github">
   <diagram id="l7EoI_o5KhrgH6v80gf4" name="Page-1">
     <mxGraphModel dx="3122" dy="1862" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="0" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -596,7 +596,7 @@
         <mxCell id="Mn-jsPeLyAHsvxmleGaf-119" value="Sections (Rich text)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;fillColor=#ffffff;" parent="Mn-jsPeLyAHsvxmleGaf-117" vertex="1">
           <mxGeometry y="52" width="180" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="Mn-jsPeLyAHsvxmleGaf-142" value="Navigation item" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="Mn-jsPeLyAHsvxmleGaf-142" value="Page" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-250" y="-110" width="160" height="234" as="geometry">
             <mxRectangle x="760" y="440" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
