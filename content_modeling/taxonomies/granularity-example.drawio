@@ -1,129 +1,83 @@
-<mxfile host="app.diagrams.net" modified="2020-12-09T08:15:23.004Z" agent="5.0 (X11)" etag="usvSM8RA6f0d2-Zghv7d" version="13.11.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-09T11:47:58.181Z" agent="5.0 (X11)" etag="CmaVI_qTnXgs2SJ-bcPx" version="13.11.0" type="github">
   <diagram id="R6gZRPhrKNKfsel5mfTR" name="Page-1">
-    <mxGraphModel dx="1893" dy="1668" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="0" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="GT Walsheim^https://docs.kontent.ai/fonts/GT-Walsheim-Regular.woff">
+    <mxGraphModel dx="2362" dy="1924" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="0" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="GT Walsheim^https://docs.kontent.ai/fonts/GT-Walsheim-Regular.woff">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="rXsVnSiKJzlpvz-L8_17-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=GT Walsheim;fontSource=https%3A%2F%2Fdocs.kontent.ai%2Ffonts%2FGT-Walsheim-Regular.woff;fontSize=14;fontColor=#FFFFFF;" edge="1" parent="1" source="rXsVnSiKJzlpvz-L8_17-1" target="rXsVnSiKJzlpvz-L8_17-8">
+        <mxCell id="rXsVnSiKJzlpvz-L8_17-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=GT Walsheim;fontSource=https%3A%2F%2Fdocs.kontent.ai%2Ffonts%2FGT-Walsheim-Regular.woff;fontSize=14;fontColor=#FFFFFF;" parent="1" source="rXsVnSiKJzlpvz-L8_17-1" target="rXsVnSiKJzlpvz-L8_17-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rXsVnSiKJzlpvz-L8_17-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=GT Walsheim;fontSource=https%3A%2F%2Fdocs.kontent.ai%2Ffonts%2FGT-Walsheim-Regular.woff;fontSize=14;fontColor=#FFFFFF;" edge="1" parent="1" source="rXsVnSiKJzlpvz-L8_17-1" target="rXsVnSiKJzlpvz-L8_17-7">
+        <mxCell id="rXsVnSiKJzlpvz-L8_17-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=GT Walsheim;fontSource=https%3A%2F%2Fdocs.kontent.ai%2Ffonts%2FGT-Walsheim-Regular.woff;fontSize=14;fontColor=#FFFFFF;" parent="1" source="rXsVnSiKJzlpvz-L8_17-1" target="rXsVnSiKJzlpvz-L8_17-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rXsVnSiKJzlpvz-L8_17-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=GT Walsheim;fontSource=https%3A%2F%2Fdocs.kontent.ai%2Ffonts%2FGT-Walsheim-Regular.woff;fontSize=14;fontColor=#FFFFFF;" edge="1" parent="1" source="rXsVnSiKJzlpvz-L8_17-1" target="rXsVnSiKJzlpvz-L8_17-6">
+        <mxCell id="rXsVnSiKJzlpvz-L8_17-1" value="Europe" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F05A22;strokeColor=none;fontFamily=GT Walsheim;fontSource=https%3A%2F%2Fdocs.kontent.ai%2Ffonts%2FGT-Walsheim-Regular.woff;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="-680" y="-950" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rXsVnSiKJzlpvz-L8_17-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=GT Walsheim;fontSource=https%3A%2F%2Fdocs.kontent.ai%2Ffonts%2FGT-Walsheim-Regular.woff;fontSize=14;fontColor=#FFFFFF;" parent="1" source="rXsVnSiKJzlpvz-L8_17-4" target="rXsVnSiKJzlpvz-L8_17-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rXsVnSiKJzlpvz-L8_17-1" value="Europe" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F05A22;strokeColor=none;fontFamily=GT Walsheim;fontSource=https%3A%2F%2Fdocs.kontent.ai%2Ffonts%2FGT-Walsheim-Regular.woff;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="-680" y="-1070" width="110" height="40" as="geometry" />
+        <mxCell id="rXsVnSiKJzlpvz-L8_17-4" value="North America" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F05A22;strokeColor=none;fontFamily=GT Walsheim;fontSource=https%3A%2F%2Fdocs.kontent.ai%2Ffonts%2FGT-Walsheim-Regular.woff;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="-405" y="-950" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="rXsVnSiKJzlpvz-L8_17-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=GT Walsheim;fontSource=https%3A%2F%2Fdocs.kontent.ai%2Ffonts%2FGT-Walsheim-Regular.woff;fontSize=14;fontColor=#FFFFFF;" edge="1" parent="1" source="rXsVnSiKJzlpvz-L8_17-3" target="rXsVnSiKJzlpvz-L8_17-9">
+        <mxCell id="kjlaj-ld40_YlEoNOOsk-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rXsVnSiKJzlpvz-L8_17-7" target="rXsVnSiKJzlpvz-L8_17-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rXsVnSiKJzlpvz-L8_17-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=GT Walsheim;fontSource=https%3A%2F%2Fdocs.kontent.ai%2Ffonts%2FGT-Walsheim-Regular.woff;fontSize=14;fontColor=#FFFFFF;" edge="1" parent="1" source="rXsVnSiKJzlpvz-L8_17-3" target="rXsVnSiKJzlpvz-L8_17-15">
+        <mxCell id="kjlaj-ld40_YlEoNOOsk-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rXsVnSiKJzlpvz-L8_17-7" target="rXsVnSiKJzlpvz-L8_17-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rXsVnSiKJzlpvz-L8_17-3" value="Asia" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F05A22;strokeColor=none;fontFamily=GT Walsheim;fontSource=https%3A%2F%2Fdocs.kontent.ai%2Ffonts%2FGT-Walsheim-Regular.woff;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="-410" y="-1070" width="110" height="40" as="geometry" />
+        <mxCell id="rXsVnSiKJzlpvz-L8_17-7" value="Germany" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;fontStyle=0;fontFamily=GT Walsheim;fontSize=14;strokeWidth=1;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="-707.5" y="-870" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="rXsVnSiKJzlpvz-L8_17-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=GT Walsheim;fontSource=https%3A%2F%2Fdocs.kontent.ai%2Ffonts%2FGT-Walsheim-Regular.woff;fontSize=14;fontColor=#FFFFFF;" edge="1" parent="1" source="rXsVnSiKJzlpvz-L8_17-4" target="rXsVnSiKJzlpvz-L8_17-22">
+        <mxCell id="rXsVnSiKJzlpvz-L8_17-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=GT Walsheim;fontSource=https%3A%2F%2Fdocs.kontent.ai%2Ffonts%2FGT-Walsheim-Regular.woff;fontSize=14;fontColor=#FFFFFF;" parent="1" source="rXsVnSiKJzlpvz-L8_17-8" target="rXsVnSiKJzlpvz-L8_17-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rXsVnSiKJzlpvz-L8_17-4" value="North America" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F05A22;strokeColor=none;fontFamily=GT Walsheim;fontSource=https%3A%2F%2Fdocs.kontent.ai%2Ffonts%2FGT-Walsheim-Regular.woff;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="-210" y="-1070" width="110" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="rXsVnSiKJzlpvz-L8_17-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=GT Walsheim;fontSource=https%3A%2F%2Fdocs.kontent.ai%2Ffonts%2FGT-Walsheim-Regular.woff;fontSize=14;fontColor=#FFFFFF;" edge="1" parent="1" source="rXsVnSiKJzlpvz-L8_17-6" target="rXsVnSiKJzlpvz-L8_17-24">
+        <mxCell id="rXsVnSiKJzlpvz-L8_17-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=GT Walsheim;fontSource=https%3A%2F%2Fdocs.kontent.ai%2Ffonts%2FGT-Walsheim-Regular.woff;fontSize=14;fontColor=#FFFFFF;" parent="1" source="rXsVnSiKJzlpvz-L8_17-8" target="rXsVnSiKJzlpvz-L8_17-33" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rXsVnSiKJzlpvz-L8_17-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=GT Walsheim;fontSource=https%3A%2F%2Fdocs.kontent.ai%2Ffonts%2FGT-Walsheim-Regular.woff;fontSize=14;fontColor=#FFFFFF;" edge="1" parent="1" source="rXsVnSiKJzlpvz-L8_17-6" target="rXsVnSiKJzlpvz-L8_17-25">
+        <mxCell id="rXsVnSiKJzlpvz-L8_17-8" value="France" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;fontStyle=0;fontFamily=GT Walsheim;fontSize=14;strokeWidth=1;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="-620" y="-870" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rXsVnSiKJzlpvz-L8_17-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=GT Walsheim;fontSource=https%3A%2F%2Fdocs.kontent.ai%2Ffonts%2FGT-Walsheim-Regular.woff;fontSize=14;fontColor=#FFFFFF;" parent="1" source="rXsVnSiKJzlpvz-L8_17-22" target="rXsVnSiKJzlpvz-L8_17-38" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rXsVnSiKJzlpvz-L8_17-6" value="Czech rep." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;fontStyle=0;fontFamily=GT Walsheim;fontSize=14;strokeWidth=2;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-750" y="-990" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="rXsVnSiKJzlpvz-L8_17-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=GT Walsheim;fontSource=https%3A%2F%2Fdocs.kontent.ai%2Ffonts%2FGT-Walsheim-Regular.woff;fontSize=14;fontColor=#FFFFFF;" edge="1" parent="1" source="rXsVnSiKJzlpvz-L8_17-7" target="rXsVnSiKJzlpvz-L8_17-26">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="-625" y="-860" />
-              <mxPoint x="-675" y="-860" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="rXsVnSiKJzlpvz-L8_17-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=GT Walsheim;fontSource=https%3A%2F%2Fdocs.kontent.ai%2Ffonts%2FGT-Walsheim-Regular.woff;fontSize=14;fontColor=#FFFFFF;" edge="1" parent="1" source="rXsVnSiKJzlpvz-L8_17-7" target="rXsVnSiKJzlpvz-L8_17-29">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="-625" y="-860" />
-              <mxPoint x="-595" y="-860" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="rXsVnSiKJzlpvz-L8_17-7" value="Germany" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;fontStyle=0;fontFamily=GT Walsheim;fontSize=14;strokeWidth=2;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-665" y="-990" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="rXsVnSiKJzlpvz-L8_17-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=GT Walsheim;fontSource=https%3A%2F%2Fdocs.kontent.ai%2Ffonts%2FGT-Walsheim-Regular.woff;fontSize=14;fontColor=#FFFFFF;" edge="1" parent="1" source="rXsVnSiKJzlpvz-L8_17-8" target="rXsVnSiKJzlpvz-L8_17-32">
+        <mxCell id="rXsVnSiKJzlpvz-L8_17-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=GT Walsheim;fontSource=https%3A%2F%2Fdocs.kontent.ai%2Ffonts%2FGT-Walsheim-Regular.woff;fontSize=14;fontColor=#FFFFFF;" parent="1" source="rXsVnSiKJzlpvz-L8_17-22" target="rXsVnSiKJzlpvz-L8_17-39" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rXsVnSiKJzlpvz-L8_17-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=GT Walsheim;fontSource=https%3A%2F%2Fdocs.kontent.ai%2Ffonts%2FGT-Walsheim-Regular.woff;fontSize=14;fontColor=#FFFFFF;" edge="1" parent="1" source="rXsVnSiKJzlpvz-L8_17-8" target="rXsVnSiKJzlpvz-L8_17-33">
+        <mxCell id="rXsVnSiKJzlpvz-L8_17-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=GT Walsheim;fontSource=https%3A%2F%2Fdocs.kontent.ai%2Ffonts%2FGT-Walsheim-Regular.woff;fontSize=14;fontColor=#FFFFFF;" parent="1" source="rXsVnSiKJzlpvz-L8_17-22" target="rXsVnSiKJzlpvz-L8_17-40" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rXsVnSiKJzlpvz-L8_17-8" value="France" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;fontStyle=0;fontFamily=GT Walsheim;fontSize=14;strokeWidth=2;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-580" y="-990" width="80" height="40" as="geometry" />
+        <mxCell id="rXsVnSiKJzlpvz-L8_17-22" value="USA" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;fontStyle=0;fontFamily=GT Walsheim;fontSize=14;strokeWidth=1;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="-390" y="-870" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="rXsVnSiKJzlpvz-L8_17-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=GT Walsheim;fontSource=https%3A%2F%2Fdocs.kontent.ai%2Ffonts%2FGT-Walsheim-Regular.woff;fontSize=14;fontColor=#FFFFFF;" edge="1" parent="1" source="rXsVnSiKJzlpvz-L8_17-9" target="rXsVnSiKJzlpvz-L8_17-36">
+        <mxCell id="rXsVnSiKJzlpvz-L8_17-26" value="BMW" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontStyle=0;fontFamily=GT Walsheim;fontSize=14;strokeWidth=1;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="-780" y="-790" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rXsVnSiKJzlpvz-L8_17-29" value="Volkswagen" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontStyle=0;fontFamily=GT Walsheim;fontSize=14;strokeWidth=1;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="-720" y="-790" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rXsVnSiKJzlpvz-L8_17-32" value="Renault" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontStyle=0;fontFamily=GT Walsheim;fontSize=14;strokeWidth=1;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="-610" y="-790" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rXsVnSiKJzlpvz-L8_17-33" value="Peugeot" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontStyle=0;fontFamily=GT Walsheim;fontSize=14;strokeWidth=1;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="-540" y="-790" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rXsVnSiKJzlpvz-L8_17-38" value="GM" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontStyle=0;fontFamily=GT Walsheim;fontSize=14;strokeWidth=1;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="-440" y="-790" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rXsVnSiKJzlpvz-L8_17-39" value="Ford" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontStyle=0;fontFamily=GT Walsheim;fontSize=14;strokeWidth=1;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="-387.5" y="-790" width="45" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rXsVnSiKJzlpvz-L8_17-40" value="Chrysler" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontStyle=0;fontFamily=GT Walsheim;fontSize=14;strokeWidth=1;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="-330" y="-790" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kjlaj-ld40_YlEoNOOsk-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kjlaj-ld40_YlEoNOOsk-3" target="rXsVnSiKJzlpvz-L8_17-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rXsVnSiKJzlpvz-L8_17-9" value="China" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;fontStyle=0;fontFamily=GT Walsheim;fontSize=14;strokeWidth=2;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-440" y="-990" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="rXsVnSiKJzlpvz-L8_17-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=GT Walsheim;fontSource=https%3A%2F%2Fdocs.kontent.ai%2Ffonts%2FGT-Walsheim-Regular.woff;fontSize=14;fontColor=#FFFFFF;" edge="1" parent="1" source="rXsVnSiKJzlpvz-L8_17-15" target="rXsVnSiKJzlpvz-L8_17-37">
+        <mxCell id="kjlaj-ld40_YlEoNOOsk-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kjlaj-ld40_YlEoNOOsk-3" target="rXsVnSiKJzlpvz-L8_17-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rXsVnSiKJzlpvz-L8_17-15" value="Japan" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;fontStyle=0;fontFamily=GT Walsheim;fontSize=14;strokeWidth=2;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-350" y="-990" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="rXsVnSiKJzlpvz-L8_17-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=GT Walsheim;fontSource=https%3A%2F%2Fdocs.kontent.ai%2Ffonts%2FGT-Walsheim-Regular.woff;fontSize=14;fontColor=#FFFFFF;" edge="1" parent="1" source="rXsVnSiKJzlpvz-L8_17-22" target="rXsVnSiKJzlpvz-L8_17-38">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="rXsVnSiKJzlpvz-L8_17-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=GT Walsheim;fontSource=https%3A%2F%2Fdocs.kontent.ai%2Ffonts%2FGT-Walsheim-Regular.woff;fontSize=14;fontColor=#FFFFFF;" edge="1" parent="1" source="rXsVnSiKJzlpvz-L8_17-22" target="rXsVnSiKJzlpvz-L8_17-39">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="rXsVnSiKJzlpvz-L8_17-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=GT Walsheim;fontSource=https%3A%2F%2Fdocs.kontent.ai%2Ffonts%2FGT-Walsheim-Regular.woff;fontSize=14;fontColor=#FFFFFF;" edge="1" parent="1" source="rXsVnSiKJzlpvz-L8_17-22" target="rXsVnSiKJzlpvz-L8_17-40">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="rXsVnSiKJzlpvz-L8_17-22" value="USA" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;fontStyle=0;fontFamily=GT Walsheim;fontSize=14;strokeWidth=2;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-195" y="-990" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="rXsVnSiKJzlpvz-L8_17-24" value="Škoda" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontStyle=0;fontFamily=GT Walsheim;fontSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-780" y="-910" width="60" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="rXsVnSiKJzlpvz-L8_17-25" value="Tatra" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontStyle=0;fontFamily=GT Walsheim;fontSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-710" y="-910" width="50" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="rXsVnSiKJzlpvz-L8_17-26" value="BMW" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontStyle=0;fontFamily=GT Walsheim;fontSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-700" y="-840" width="50" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="rXsVnSiKJzlpvz-L8_17-29" value="Volkswagen" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontStyle=0;fontFamily=GT Walsheim;fontSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-640" y="-840" width="90" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="rXsVnSiKJzlpvz-L8_17-32" value="Renault" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontStyle=0;fontFamily=GT Walsheim;fontSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-610" y="-910" width="60" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="rXsVnSiKJzlpvz-L8_17-33" value="Peugeot" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontStyle=0;fontFamily=GT Walsheim;fontSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-540" y="-910" width="70" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="rXsVnSiKJzlpvz-L8_17-36" value="SAIC" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontStyle=0;fontFamily=GT Walsheim;fontSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-425" y="-910" width="50" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="rXsVnSiKJzlpvz-L8_17-37" value="Toyota" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontStyle=0;fontFamily=GT Walsheim;fontSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-342.5" y="-910" width="65" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="rXsVnSiKJzlpvz-L8_17-38" value="GM" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontStyle=0;fontFamily=GT Walsheim;fontSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-245" y="-910" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="rXsVnSiKJzlpvz-L8_17-39" value="Ford" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontStyle=0;fontFamily=GT Walsheim;fontSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-192.5" y="-910" width="45" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="rXsVnSiKJzlpvz-L8_17-40" value="Chrysler" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontStyle=0;fontFamily=GT Walsheim;fontSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-135" y="-910" width="70" height="40" as="geometry" />
+        <mxCell id="kjlaj-ld40_YlEoNOOsk-3" value="Car Brands" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=GT Walsheim;fontSource=https%3A%2F%2Fdocs.kontent.ai%2Ffonts%2FGT-Walsheim-Regular.woff;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-540" y="-1030" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
