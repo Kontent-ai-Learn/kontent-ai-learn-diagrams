@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-14T08:30:38.152Z" agent="5.0 (X11)" etag="ZyUacRpDAq-v-hkgyjtb" version="14.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-14T09:24:03.290Z" agent="5.0 (X11)" etag="xPBo5Nz3oEiQngmadfvR" version="14.0.1" type="github">
   <diagram id="IQVPAYiHxeu3ZIYqz4J4" name="Page-1">
     <mxGraphModel dx="1912" dy="824" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="GT Walsheim^https://docs.kontent.ai/fonts/GT-Walsheim-Regular.woff">
       <root>
@@ -16,16 +16,16 @@
         <mxCell id="wjHQRlfI7GsjUOKSqEVD-6" value="Taxonomy group" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;horizontal=1;verticalAlign=top;labelPosition=center;verticalLabelPosition=middle;align=center;fontFamily=GT Walsheim Pro;spacing=-3;strokeColor=#435C34;fillColor=#E5FAE4;" vertex="1" parent="1">
           <mxGeometry x="-320" y="140" width="360" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="wjHQRlfI7GsjUOKSqEVD-7" value="Group label (text)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;align=left;fontFamily=GT Walsheim Pro;fillColor=#d5e8d4;strokeColor=#1A1A1A;" vertex="1" parent="1">
+        <mxCell id="wjHQRlfI7GsjUOKSqEVD-7" value="Group label (text)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;align=left;fontFamily=GT Walsheim Pro;fillColor=#d5e8d4;strokeColor=#324527;" vertex="1" parent="1">
           <mxGeometry x="-310" y="160" width="340" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="wjHQRlfI7GsjUOKSqEVD-8" value="Child taxonomy items (linked items)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;align=left;fontFamily=GT Walsheim Pro;fillColor=#d5e8d4;strokeColor=#1A1A1A;" vertex="1" parent="1">
+        <mxCell id="wjHQRlfI7GsjUOKSqEVD-8" value="Child taxonomy items (linked items)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;align=left;fontFamily=GT Walsheim Pro;fillColor=#d5e8d4;strokeColor=#324527;" vertex="1" parent="1">
           <mxGeometry x="-310" y="185" width="340" height="20" as="geometry" />
         </mxCell>
         <mxCell id="wjHQRlfI7GsjUOKSqEVD-9" value="Taxonomy term" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;horizontal=1;verticalAlign=top;labelPosition=center;verticalLabelPosition=middle;align=center;fontFamily=GT Walsheim Pro;spacing=-3;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="-320" y="230" width="360" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="wjHQRlfI7GsjUOKSqEVD-10" value="Term label (text)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;align=left;fontFamily=GT Walsheim Pro;fillColor=#ffe6cc;strokeColor=#1A1A1A;" vertex="1" parent="1">
+        <mxCell id="wjHQRlfI7GsjUOKSqEVD-10" value="Term label (text)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;align=left;fontFamily=GT Walsheim Pro;fillColor=#ffe6cc;strokeColor=#8F6D46;" vertex="1" parent="1">
           <mxGeometry x="-310" y="250" width="340" height="20" as="geometry" />
         </mxCell>
         <mxCell id="wjHQRlfI7GsjUOKSqEVD-20" value="Humanities" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;horizontal=1;verticalAlign=top;labelPosition=center;verticalLabelPosition=middle;align=center;fontFamily=GT Walsheim Pro;spacing=-3;strokeColor=#435C34;fillColor=#E5FAE4;" vertex="1" parent="1">
@@ -34,31 +34,31 @@
         <mxCell id="wjHQRlfI7GsjUOKSqEVD-25" value="Natural Sciences" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;horizontal=1;verticalAlign=top;labelPosition=center;verticalLabelPosition=middle;align=center;fontFamily=GT Walsheim Pro;spacing=-3;strokeColor=#435C34;fillColor=#E5FAE4;" vertex="1" parent="1">
           <mxGeometry x="450" y="165" width="360" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="wjHQRlfI7GsjUOKSqEVD-36" value="Philosophy" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;align=left;fontFamily=GT Walsheim Pro;fillColor=#ffe6cc;strokeColor=#1A1A1A;" vertex="1" parent="1">
+        <mxCell id="wjHQRlfI7GsjUOKSqEVD-36" value="Philosophy" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;align=left;fontFamily=GT Walsheim Pro;fillColor=#ffe6cc;strokeColor=#8F6D46;" vertex="1" parent="1">
           <mxGeometry x="90" y="300" width="340" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="wjHQRlfI7GsjUOKSqEVD-38" value="Political Sciences" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;align=left;fontFamily=GT Walsheim Pro;fillColor=#ffe6cc;strokeColor=#1A1A1A;" vertex="1" parent="1">
+        <mxCell id="wjHQRlfI7GsjUOKSqEVD-38" value="Political Sciences" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;align=left;fontFamily=GT Walsheim Pro;fillColor=#ffe6cc;strokeColor=#8F6D46;" vertex="1" parent="1">
           <mxGeometry x="90" y="325" width="340" height="20" as="geometry" />
         </mxCell>
         <mxCell id="wjHQRlfI7GsjUOKSqEVD-28" value="Langauges" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;horizontal=1;verticalAlign=top;labelPosition=center;verticalLabelPosition=middle;align=center;fontFamily=GT Walsheim Pro;spacing=-3;strokeColor=#435C34;fillColor=#E5FAE4;" vertex="1" parent="1">
           <mxGeometry x="90" y="189" width="340" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="wjHQRlfI7GsjUOKSqEVD-32" value="Czech" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;align=left;fontFamily=GT Walsheim Pro;fillColor=#ffe6cc;strokeColor=#1A1A1A;" vertex="1" parent="1">
+        <mxCell id="wjHQRlfI7GsjUOKSqEVD-32" value="Czech" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;align=left;fontFamily=GT Walsheim Pro;fillColor=#ffe6cc;strokeColor=#8F6D46;" vertex="1" parent="1">
           <mxGeometry x="100" y="214" width="320" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="wjHQRlfI7GsjUOKSqEVD-33" value="French" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;align=left;fontFamily=GT Walsheim Pro;fillColor=#ffe6cc;strokeColor=#1A1A1A;" vertex="1" parent="1">
+        <mxCell id="wjHQRlfI7GsjUOKSqEVD-33" value="French" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;align=left;fontFamily=GT Walsheim Pro;fillColor=#ffe6cc;strokeColor=#8F6D46;" vertex="1" parent="1">
           <mxGeometry x="100" y="237" width="320" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="wjHQRlfI7GsjUOKSqEVD-34" value="Japanese" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;align=left;fontFamily=GT Walsheim Pro;fillColor=#ffe6cc;strokeColor=#1A1A1A;" vertex="1" parent="1">
+        <mxCell id="wjHQRlfI7GsjUOKSqEVD-34" value="Japanese" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;align=left;fontFamily=GT Walsheim Pro;fillColor=#ffe6cc;strokeColor=#8F6D46;" vertex="1" parent="1">
           <mxGeometry x="100" y="260" width="320" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="wjHQRlfI7GsjUOKSqEVD-40" value="Math" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;align=left;fontFamily=GT Walsheim Pro;fillColor=#ffe6cc;strokeColor=#1A1A1A;" vertex="1" parent="1">
+        <mxCell id="wjHQRlfI7GsjUOKSqEVD-40" value="Math" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;align=left;fontFamily=GT Walsheim Pro;fillColor=#ffe6cc;strokeColor=#8F6D46;" vertex="1" parent="1">
           <mxGeometry x="460" y="191" width="340" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="wjHQRlfI7GsjUOKSqEVD-41" value="Physics" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;align=left;fontFamily=GT Walsheim Pro;fillColor=#ffe6cc;strokeColor=#1A1A1A;" vertex="1" parent="1">
+        <mxCell id="wjHQRlfI7GsjUOKSqEVD-41" value="Physics" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;align=left;fontFamily=GT Walsheim Pro;fillColor=#ffe6cc;strokeColor=#8F6D46;" vertex="1" parent="1">
           <mxGeometry x="460" y="214.5" width="340" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="wjHQRlfI7GsjUOKSqEVD-42" value="Biology" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;align=left;fontFamily=GT Walsheim Pro;fillColor=#ffe6cc;strokeColor=#1A1A1A;" vertex="1" parent="1">
+        <mxCell id="wjHQRlfI7GsjUOKSqEVD-42" value="Biology" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;align=left;fontFamily=GT Walsheim Pro;fillColor=#ffe6cc;strokeColor=#8F6D46;" vertex="1" parent="1">
           <mxGeometry x="460" y="238" width="340" height="20" as="geometry" />
         </mxCell>
       </root>
