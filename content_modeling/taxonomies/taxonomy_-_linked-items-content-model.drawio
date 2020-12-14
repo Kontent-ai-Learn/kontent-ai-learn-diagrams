@@ -1,16 +1,16 @@
-<mxfile host="app.diagrams.net" modified="2020-12-14T08:27:42.711Z" agent="5.0 (X11)" etag="t03X1s4zOcKL21KZro4e" version="14.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-14T08:30:38.152Z" agent="5.0 (X11)" etag="ZyUacRpDAq-v-hkgyjtb" version="14.0.1" type="github">
   <diagram id="IQVPAYiHxeu3ZIYqz4J4" name="Page-1">
     <mxGraphModel dx="1912" dy="824" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="GT Walsheim^https://docs.kontent.ai/fonts/GT-Walsheim-Regular.woff">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="wjHQRlfI7GsjUOKSqEVD-19" value="Content items" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=GT Walsheim Pro;verticalAlign=top;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="wjHQRlfI7GsjUOKSqEVD-19" value="Content items" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=GT Walsheim Pro;verticalAlign=top;fontSize=14;glass=0;shadow=0;sketch=0;perimeterSpacing=0;arcSize=7;strokeColor=#878787;" vertex="1" parent="1">
           <mxGeometry x="60" y="110" width="770" height="280" as="geometry" />
         </mxCell>
         <mxCell id="wjHQRlfI7GsjUOKSqEVD-39" value="E-learning" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;horizontal=1;verticalAlign=top;labelPosition=center;verticalLabelPosition=middle;align=center;fontFamily=GT Walsheim Pro;spacing=-3;strokeColor=#435C34;fillColor=#E5FAE4;" vertex="1" parent="1">
           <mxGeometry x="70" y="140" width="750" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="wjHQRlfI7GsjUOKSqEVD-1" value="Content types" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=GT Walsheim Pro;verticalAlign=top;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="wjHQRlfI7GsjUOKSqEVD-1" value="Content types" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=GT Walsheim Pro;verticalAlign=top;fontSize=14;arcSize=11;strokeColor=#878787;" vertex="1" parent="1">
           <mxGeometry x="-330" y="110" width="380" height="180" as="geometry" />
         </mxCell>
         <mxCell id="wjHQRlfI7GsjUOKSqEVD-6" value="Taxonomy group" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;horizontal=1;verticalAlign=top;labelPosition=center;verticalLabelPosition=middle;align=center;fontFamily=GT Walsheim Pro;spacing=-3;strokeColor=#435C34;fillColor=#E5FAE4;" vertex="1" parent="1">
