@@ -1,1 +1,75 @@
-<mxfile host="app.diagrams.net" modified="2020-12-16T14:09:07.958Z" agent="5.0 (X11)" etag="zyIDX2zcB9Oa5q8kRCsA" version="14.0.4" type="github"><diagram id="FXWY1BHe6qJy8VUxswO5" name="Page-1">7Vpbd9o4EP41PJJj+YZ5DDRJT9vsZjc9p82jYgtbW9mishxgf/1KtowvsoEt1JCTwAPW6MJovk8zY0kjax6v7xhcRvc0QGRkGsF6ZH0YmSYwbEv8SMmmkDiuVwhChgPVqBI84n9R2VNJMxygtNGQU0o4XjaFPk0S5POGDDJGV81mC0qa/7qEIdIEjz4kuvQbDnikpMAwqoqPCIeR+mvPURUxLBsrQRrBgK5qIutmZM0Zpbx4itdzRKTxSrsU/W57areKMZTwQzpYOGIrh1Pn870T/GXdmbPAGAO3GOYFkkzNWGnLN6UJGM2SAMlRjJE1W0WYo8cl9GXtSoAuZBGPiSgB8bigCb+FMSYS77uvYqRvkKQRwrF4fGBUNVFAA2GFGSQ4TESBFVacvSDGsUDgWsmfKec0FhUEPiPyQFPMMZUVBC3q7b+0qjmVui0wIXNKKMsnYy0c+RXylDP6A9Vq3Pyj9KvJi4+QK0uJf0PrXgzAFlmxJBCNEWcb0UR1sCaKDGo1gJItq4pbW8JENVqBUggVn8Pt2BXk4kGh3s2A8cx48q0wW2eLG/TJ+/O76Y3Hpq0BjgKxBFSRMh7RkCaQ3FTSWZMSVZsvVNo8J8I/iPONghlmnDZpgtaYf5fdrxxVeqrVfFirkfPCpiwkYr61TrL4VK+ruuWlsl+db/ZhFO3BVViJZsxHu8ypfBRkIeI72im3KE29kzgMEcjxS9MbnZ4EzjsJzkAC+7JI4L6T4AwkcC6LBFo+8AfkGYOy46OPUeKLbKw/QwCHZQj/E4RWDA8c5AV2Vwz3zGcrj+G9sGnhuzdWA7cVqyd6rAZdsdr6XaHa0rC5l0nmmdFYLJDr+11o3BrOtbTwSdAATTRMW0fDHRIMWwPjIdqk2D/76hgID28/HpMh8XA0PGZYTD3cvA08TPfC8ADea8kmBs0K3AOzgslFZQVg+lrAfBWpYQcJOndnvFOTQHV9oFioXPny6eTKaeY6oOUWClVVvxaZtoockXUa7/w6g5OZXpST0bciP2YxTDDHb+eVo70QO6L4dMgoPunIcjGhKV1GbySxct0rs8c5nguUqQ4KJTjfA7+gt/SB8l7Lu5rsx+e3vajvits1gP5GBIfyWOK1gHLUMQc4bNG4duntBkEF6PsnOJVhcrNE4ocuzpGDtA/DDoA0oflJV22AEsaEJlKp/JxsBv0fYa5eq7Yz5u/NM7otWp7I7ktkgTlQYrFTzRrwc2E1lOfACv0Exuh0i/NAJH81yThqcdrtM0i3w12CId0l0DedK3yEzeMLwWcY59nGZ2v38+Gj73VyuKYJjaXa0sksNWjE/HnT/k2jKWdUt7AS7bsOEOMgyH1vF95Nf/wLlxFOAKB2yO86OoBGB4CnOOPvBlDfHB2ZLpHWDfBLAzj3ZyYvpOR2Gae5Ya5FA2Au17l1ynrxFMrfGhE4YnE57DM7atRyGDHbXMFS+k6yPpKZ1tlJpr+WNElW2ryCO7/Ao4H/GW0Gw791hWgY+POymkXfC89RDqcjYtinoYIoVjfWit2/6t6fdfMf</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-12-16T14:19:15.422Z" agent="5.0 (X11)" etag="vZPNeoaP7cbmC-d2_FED" version="14.0.4" type="github">
+  <diagram id="FXWY1BHe6qJy8VUxswO5" name="Page-1">
+    <mxGraphModel dx="1260" dy="687" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="3ihrw5to5KM5dQ3G2Bd0-16" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=GT Walsheim Pro;fontSize=12;align=right;verticalAlign=bottom;labelPosition=left;verticalLabelPosition=top;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="370" y="150" width="220" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="-B0Yc3guxufEeJ8OX28--24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;fontFamily=GT Walsheim Pro;" parent="1" source="-B0Yc3guxufEeJ8OX28--2" target="-B0Yc3guxufEeJ8OX28--3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-B0Yc3guxufEeJ8OX28--25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;fontFamily=GT Walsheim Pro;" parent="1" source="-B0Yc3guxufEeJ8OX28--2" target="-B0Yc3guxufEeJ8OX28--4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-B0Yc3guxufEeJ8OX28--26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;fontFamily=GT Walsheim Pro;" parent="1" source="-B0Yc3guxufEeJ8OX28--2" target="-B0Yc3guxufEeJ8OX28--5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-B0Yc3guxufEeJ8OX28--2" value="Natural Sciences" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontFamily=GT Walsheim Pro;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="160" y="170" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-B0Yc3guxufEeJ8OX28--3" value="Math" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontFamily=GT Walsheim Pro;fillColor=#ffe6cc;strokeColor=#F05A22;" parent="1" vertex="1">
+          <mxGeometry x="110" y="240" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-B0Yc3guxufEeJ8OX28--4" value="Physics" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontFamily=GT Walsheim Pro;fillColor=#ffe6cc;strokeColor=#F05A22;" parent="1" vertex="1">
+          <mxGeometry x="180" y="240" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-B0Yc3guxufEeJ8OX28--5" value="Biology" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontFamily=GT Walsheim Pro;fillColor=#ffe6cc;strokeColor=#F05A22;" parent="1" vertex="1">
+          <mxGeometry x="260" y="240" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-B0Yc3guxufEeJ8OX28--18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=14;fontFamily=GT Walsheim Pro;" parent="1" source="-B0Yc3guxufEeJ8OX28--6" target="-B0Yc3guxufEeJ8OX28--7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-B0Yc3guxufEeJ8OX28--19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;fontFamily=GT Walsheim Pro;" parent="1" source="-B0Yc3guxufEeJ8OX28--6" target="3ihrw5to5KM5dQ3G2Bd0-8" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="197.5" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-B0Yc3guxufEeJ8OX28--20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;fontFamily=GT Walsheim Pro;" parent="1" source="-B0Yc3guxufEeJ8OX28--6" target="-B0Yc3guxufEeJ8OX28--9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-B0Yc3guxufEeJ8OX28--6" value="Humanities" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontFamily=GT Walsheim Pro;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="167.5" y="40" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-B0Yc3guxufEeJ8OX28--7" value="Philosophy" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontFamily=GT Walsheim Pro;fillColor=#ffe6cc;strokeColor=#F05A22;" parent="1" vertex="1">
+          <mxGeometry x="66.25" y="110" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-B0Yc3guxufEeJ8OX28--9" value="Political Sciences" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontFamily=GT Walsheim Pro;fillColor=#ffe6cc;strokeColor=#F05A22;" parent="1" vertex="1">
+          <mxGeometry x="238.75" y="110" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3ihrw5to5KM5dQ3G2Bd0-8" value="Religion" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontFamily=GT Walsheim Pro;fillColor=#ffe6cc;strokeColor=#F05A22;" parent="1" vertex="1">
+          <mxGeometry x="166.25" y="110" width="64.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3ihrw5to5KM5dQ3G2Bd0-13" value="is type of" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;fontFamily=GT Walsheim Pro;labelBackgroundColor=#F5F5F5;" parent="1" source="3ihrw5to5KM5dQ3G2Bd0-11" target="3ihrw5to5KM5dQ3G2Bd0-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3ihrw5to5KM5dQ3G2Bd0-11" value="Content type name" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fontFamily=GT Walsheim Pro;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="470" y="160" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3ihrw5to5KM5dQ3G2Bd0-12" value="Content item name" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fontFamily=GT Walsheim Pro;fillColor=#ffe6cc;strokeColor=#F05A22;" parent="1" vertex="1">
+          <mxGeometry x="470" y="240" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3ihrw5to5KM5dQ3G2Bd0-14" value="taxonomy group" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=GT Walsheim Pro;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="370" y="165" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="3ihrw5to5KM5dQ3G2Bd0-15" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;taxonomy term&lt;br style=&quot;font-size: 12px;&quot;&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=GT Walsheim Pro;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="370" y="245" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="3ihrw5to5KM5dQ3G2Bd0-19" value="&lt;div align=&quot;left&quot;&gt;Key&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=GT Walsheim Pro;fontSize=12;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="370" y="130" width="40" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
