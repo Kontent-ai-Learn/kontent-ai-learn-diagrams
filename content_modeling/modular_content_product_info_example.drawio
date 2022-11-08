@@ -1,0 +1,16 @@
+<mxfile host="app.diagrams.net" modified="2022-11-08T19:27:15.820Z" agent="5.0 (Windows)" etag="KUfZwWnS1yle2-VnwYhC" version="20.5.3" type="github">
+  <diagram id="QpTB3JBWLclJzC7EPxBI" name="Page-1">
+    <mxGraphModel dx="1984" dy="1138" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="FeaabyJDP-7DLvGipLMP-3" value="" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="130" y="150" width="230" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="FeaabyJDP-7DLvGipLMP-4" value="Content brief" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;hachureGap=4;jiggle=2;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=26;" vertex="1" parent="1">
+          <mxGeometry x="150" y="150" width="190" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
