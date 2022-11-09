@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-08T20:37:01.313Z" agent="5.0 (Windows)" etag="CfEHOhyetloXJhdSpwuS" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-09T07:17:07.897Z" agent="5.0 (Windows)" etag="I3pmyaitELVUIqu-GW3l" version="20.5.3" type="github">
   <diagram id="QpTB3JBWLclJzC7EPxBI" name="Page-1">
-    <mxGraphModel dx="1984" dy="1138" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1344" dy="778" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -120,6 +120,21 @@
         </mxCell>
         <mxCell id="FeaabyJDP-7DLvGipLMP-58" value="Free shipping info" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;hachureGap=4;jiggle=2;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="83.01383399209485" y="621.9642857142858" width="263.9723320158103" height="16.07142857142857" as="geometry" />
+        </mxCell>
+        <mxCell id="FeaabyJDP-7DLvGipLMP-64" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=24;elbow=vertical;fillColor=#fa6800;strokeColor=#C73500;" edge="1" parent="1" source="FeaabyJDP-7DLvGipLMP-59" target="FeaabyJDP-7DLvGipLMP-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FeaabyJDP-7DLvGipLMP-59" value="" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fillStyle=solid;fillColor=#FFE6CC;strokeColor=#C73500;fontColor=#000000;opacity=70;" vertex="1" parent="1">
+          <mxGeometry x="440" y="501.96" width="370" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="FeaabyJDP-7DLvGipLMP-60" value="Free shipping info" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;hachureGap=4;jiggle=2;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="493.0138339920949" y="517.0342857142858" width="263.9723320158103" height="16.07142857142857" as="geometry" />
+        </mxCell>
+        <mxCell id="FeaabyJDP-7DLvGipLMP-62" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=24;fillColor=#fa6800;fillStyle=auto;opacity=60;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="1">
+          <mxGeometry x="470" y="557.21" width="310" height="26.79" as="geometry" />
+        </mxCell>
+        <mxCell id="FeaabyJDP-7DLvGipLMP-63" value="Free shipping description" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;hachureGap=4;jiggle=2;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="490" y="562.57" width="270" height="16.07" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
