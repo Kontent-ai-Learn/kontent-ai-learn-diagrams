@@ -1,1 +1,31 @@
-<mxfile host="Electron" modified="2023-02-17T14:59:09.830Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/20.8.10 Chrome/106.0.5249.199 Electron/21.3.5 Safari/537.36" etag="TKo100YBQvLYJQhh_aSx" version="20.8.10" type="device"><diagram id="nFBdgCirMu-IVlNZLdI9" name="Page-1">7ZhtT9swEMc/TaXtxVAeSOle0kDZpHZCFAnBm8k4l8TCyWW2u7Z8+p0bp00WDZjEBKsqRUn8993ZPv/suhmEcbG6UKzKZ5iAHAReshqEZ4Mg8L3Io4dV1rUyDD7XQqZE4ox2wlw8QuPp1IVIQHcMDaI0ouqKHMsSuOloTClcds1SlK5VF79iGXQsrDDnTPbVG5GYvFZHUcv9C4gsb1r2PVdTsMbYCTpnCS5bUng+CGOFaOq3YhWDtMkTnR5O/lC77ZiC0rzE4fru7vuPO292O5uGY/DFuc4eP7koP5lcuAFPJDOkLHNhgJ4fKLHGtkB5X1fw0Y3FrJsE6aUoJCupNE7JdO5qfCrzXMhkyta4sB3UhvGHpjTOUYlHsmfSGVO1Mm7+g6GNJqSMUaLatBMmDEYp73jObUSq9UhVoMn3ssmG/5s0Y6uO4ZRp4wSOUrJKi/ttvwumMlGO0RgsnJE2Ch+g1Z0hH8F96gY9YYWQFvAbVA+UnjkrdZMPXChuA+fGELJBFJ7SjSbJ3qyBPsoQMwmsEvqIU4O2guuN6SStA9OrCx0FYxe8P/3NXIIysGpJDocLwAKMomjednXWHutucbnj3B85LW8z7h279eXWVraNvMOPXhyBf0Fj0KPxGys2FF7DyvTZo3Ga3uSUWMPYwsdJTIqspKKE1LrZRAla6adONljZYBXjosymG5uz451y5TJgJSTfVG5Wcy6SBEoLFhpmWE2RRaZCQbNrOxqN6aJExt5RNIio4zGV/V2ZLmuuTIwljYWJzYwCIboEi+k7YuzJTeR58BxptL5fRFpj9+qghT3QzkBzJSojsLS8XQme2y3vgN0eYRcFb4zdcQ+7r2WmIBFgp+yA3X5idzJ6Y+yGPexiTFOwP6yV4GahDge9/T7oBWH3pBeELyOyIffViTzpEXm5A/FUazhsf++Asyc3k//nsDd67rB3+HOxT7z9w1MeFXffazZ1ra9e4fkv</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-07-11T14:39:06.002Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="Y6dN0gQ9d38fyAMgAlRr" version="21.5.2" type="github">
+  <diagram id="nFBdgCirMu-IVlNZLdI9" name="Page-1">
+    <mxGraphModel dx="819" dy="441" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="0" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="TZZ_qZ0MYML3Be1iEsgz-1" value="Flat white (content type)" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#6956cc;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;strokeColor=#6956CC;fontFamily=Work Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DWork%2BSans;fontColor=#FFFFFF;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="10" y="10" width="180" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="TZZ_qZ0MYML3Be1iEsgz-2" value="Name (Text)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Work Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DWork%2BSans;" parent="TZZ_qZ0MYML3Be1iEsgz-1" vertex="1">
+          <mxGeometry y="26" width="180" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="TZZ_qZ0MYML3Be1iEsgz-3" value="Description (Rich text)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Work Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DWork%2BSans;" parent="TZZ_qZ0MYML3Be1iEsgz-1" vertex="1">
+          <mxGeometry y="52" width="180" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="TZZ_qZ0MYML3Be1iEsgz-4" value="Ingredients (Rich text)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Work Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DWork%2BSans;" parent="TZZ_qZ0MYML3Be1iEsgz-1" vertex="1">
+          <mxGeometry y="78" width="180" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="TZZ_qZ0MYML3Be1iEsgz-6" value="Coffee picture (content type)" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#6956cc;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;strokeColor=#6956CC;fontFamily=Work Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DWork%2BSans;fontColor=#FFFFFF;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="230" y="23" width="180" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="TZZ_qZ0MYML3Be1iEsgz-7" value="Picture (Asset)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Work Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DWork%2BSans;" parent="TZZ_qZ0MYML3Be1iEsgz-6" vertex="1">
+          <mxGeometry y="26" width="180" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="TZZ_qZ0MYML3Be1iEsgz-8" value="Description (Text)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Work Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DWork%2BSans;" parent="TZZ_qZ0MYML3Be1iEsgz-6" vertex="1">
+          <mxGeometry y="52" width="180" height="26" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
