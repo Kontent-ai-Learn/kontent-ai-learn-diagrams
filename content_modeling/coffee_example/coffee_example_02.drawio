@@ -1,1 +1,67 @@
-<mxfile host="Electron" modified="2023-02-17T14:59:18.488Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/20.8.10 Chrome/106.0.5249.199 Electron/21.3.5 Safari/537.36" etag="7tQ6h0uoZBEW31QgdjBt" version="20.8.10" type="device"><diagram id="_sXCi1z4cA1q9kwr4DkR" name="Page-1">7Zpbb+I4FMc/DdLuw1S5kJQ+lrR0V6JVVVaa2X1zk5PEixNnHaeQ+fR7nDhAmkI7mpmSMpEQ4L+PLznnhy/YI9tL1jeCZPEtD4CNLCNYj+yrkWWZhmPgh1LKWnGti1qIBA200VZY0K/QlNRqQQPIW4aScyZp1hZ9nqbgy5ZGhOCrtlnImW5V15+RCFoWSlj4hHXVzzSQca1OnJ3ifwCN4qZl09A5CWmMtZDHJOCrHcm+Htme4FzW35K1B0w5j7Z6ONuTu+mYgFS+pcA/Uwaz4jKwvbtr+78vy9s7d/5J15LLsnlgCPD5dZILGfOIp4Rdb9Wp4EUagKrVwNTWZs55hqKJ4r8gZamDSQrJUYplwnQudliUX1T5M6dJ/q2rqxJX61aq1KmQp3JGEsqU8JmLJfZ8QdJcZy14IXzVYiwl0mE59iW+oT/UmzLIzyLOIwYko/mZz5Mqw88r01lYV4xfddWONdWVdz3duK1pcZ97bU0sERHIQ2Fwa0Pl/J0WdCBvgCeAjkADAYxI+tSGk2jGo43dFgP8okn4BiqsgYpeUHHeKyp0t58IK3RLM2wWlVVMJeDnbzgIS+UNfLYyg987FOUrmjCSQhManaOi78eUBXNS8kJ5JJfEXzapacwF/Yr2pEEFs4XUIFmuqo0y5nHGRdWOHRCYhH6r5ELVqIkRkGPZ+yZy5jPplqxbhnOSSy34nDGS5fRx0+8Eg0jTKZcSyamNcin4Ena64/oTeAz7iOoTCAnrg2xtZvK6RNlOrrZzojnRWrw7H9rGT6Jx3KHxjiQVhX/BWnbZw+eUneCkvIZxBx8tEUajFJMMQlVMOYriquBSy1INatM8Iz5No3llczXeKg/aA0riWDZk1cwf0yCAtBosJZGkpkghk3GK0VUddab4Qp95ahR0sOMeps1tGl/KXEiPp/gshFYRBUR0BQrTHjF2cBB5HTxNmuW+jbTG7oeD5nRAu4LcFzSTlKeKtwfqx2rIG7A7Iewc68jYuR3s/kwjAQEFFbIBu9PE7nxyZOzOO9jdU18WuBJSzM1pusQ1PtYhIRmoOxXqTGN8ZOwmHew8Hoag1nNZzd+wvzjp/YVltzcYlv3GDUaD7g9H8mLfSKhIvMxzGKbdHoB2cDT5OJuMZj+9f5cx7GpPCbijby9MswPcbRHpmbXijax5ypNyYO5UmDv63sK0DjBX7S/kXujea2kXhqHl92dpF7iPrqO62Tw/7sCa8v3h85tXe2Onb6s9s3u64YFAJ/jD+Hd0vg6PJh9oldc9tLhhRHlkQOw0EDv+uq57XIHzF00ZDJidDmbHX8p1jyceICoYESiGrWsBz5jbufHx/F81BybB+KVV0MR6tF23V4H83gN0y3jhBN18IYTOzzpAN7t/9S94OYRvT/jGTt/iN+kE531vaRnGRqjuaZ2ZOJAdvqtVpe5BUHQBiNFHvcClfzmvXuDSEerJ/S3z4qjAfFLEWM+IsZxfg5jm77bX7/xZ78QMJrd3j6u8nRvc9vX/</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-07-11T14:53:58.094Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="Y-Gesu-J1qMBR3Rsz3GS" version="21.5.2" type="github">
+  <diagram id="_sXCi1z4cA1q9kwr4DkR" name="Page-1">
+    <mxGraphModel dx="1434" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="0" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ZBleFuAd3CNE3qXkMN6L-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Work Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DWork%2BSans;" parent="1" source="ZBleFuAd3CNE3qXkMN6L-3" target="ZBleFuAd3CNE3qXkMN6L-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZBleFuAd3CNE3qXkMN6L-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Work Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DWork%2BSans;" parent="1" source="ZBleFuAd3CNE3qXkMN6L-3" target="ZBleFuAd3CNE3qXkMN6L-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZBleFuAd3CNE3qXkMN6L-3" value="Flat white (content type)" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#6956CC;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;strokeColor=#6956CC;fontFamily=Work Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DWork%2BSans;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="10" y="10" width="180" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="ZBleFuAd3CNE3qXkMN6L-4" value="Name (Text)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Work Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DWork%2BSans;" parent="ZBleFuAd3CNE3qXkMN6L-3" vertex="1">
+          <mxGeometry y="26" width="180" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="ZBleFuAd3CNE3qXkMN6L-5" value="Description (Rich text)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Work Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DWork%2BSans;" parent="ZBleFuAd3CNE3qXkMN6L-3" vertex="1">
+          <mxGeometry y="52" width="180" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="ZBleFuAd3CNE3qXkMN6L-6" value="Ingredients (Rich text)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Work Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DWork%2BSans;" parent="ZBleFuAd3CNE3qXkMN6L-3" vertex="1">
+          <mxGeometry y="78" width="180" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="ZBleFuAd3CNE3qXkMN6L-7" value="Pictures (Linked item)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Work Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DWork%2BSans;" parent="ZBleFuAd3CNE3qXkMN6L-3" vertex="1">
+          <mxGeometry y="104" width="180" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="ZBleFuAd3CNE3qXkMN6L-8" value="Coffee picture (content type)" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#6956CC;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;strokeColor=#6956CC;fontFamily=Work Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DWork%2BSans;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="230" y="23" width="180" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="ZBleFuAd3CNE3qXkMN6L-9" value="Picture (Asset)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Work Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DWork%2BSans;" parent="ZBleFuAd3CNE3qXkMN6L-8" vertex="1">
+          <mxGeometry y="26" width="180" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="ZBleFuAd3CNE3qXkMN6L-10" value="Description (Text)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Work Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DWork%2BSans;" parent="ZBleFuAd3CNE3qXkMN6L-8" vertex="1">
+          <mxGeometry y="52" width="180" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="ZBleFuAd3CNE3qXkMN6L-11" value="Mug type (Taxonomy)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Work Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DWork%2BSans;" parent="ZBleFuAd3CNE3qXkMN6L-8" vertex="1">
+          <mxGeometry y="78" width="180" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="ZBleFuAd3CNE3qXkMN6L-12" value="Mug types (taxonomy)" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#3dcca8;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;strokeColor=#3DCCA8;swimlaneLine=1;fontFamily=Work Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DWork%2BSans;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="450" y="23" width="180" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="ZBleFuAd3CNE3qXkMN6L-13" value="Ceramic" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Work Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DWork%2BSans;" parent="ZBleFuAd3CNE3qXkMN6L-12" vertex="1">
+          <mxGeometry y="26" width="180" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="ZBleFuAd3CNE3qXkMN6L-14" value="Glass" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Work Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DWork%2BSans;" parent="ZBleFuAd3CNE3qXkMN6L-12" vertex="1">
+          <mxGeometry y="52" width="180" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="ZBleFuAd3CNE3qXkMN6L-15" value="Stainless" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Work Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DWork%2BSans;" parent="ZBleFuAd3CNE3qXkMN6L-12" vertex="1">
+          <mxGeometry y="78" width="180" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="ZBleFuAd3CNE3qXkMN6L-16" value="Regular flat white" style="html=1;fillColor=#3DCCA8;strokeColor=none;fontFamily=Work Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DWork%2BSans;" parent="1" vertex="1">
+          <mxGeometry x="10" y="200" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ZBleFuAd3CNE3qXkMN6L-17" value="Soy flat white" style="html=1;fillColor=#3DCCA8;strokeColor=none;fontFamily=Work Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DWork%2BSans;" parent="1" vertex="1">
+          <mxGeometry x="145" y="200" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ZBleFuAd3CNE3qXkMN6L-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.001;entryY=0.112;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Work Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DWork%2BSans;" parent="1" source="ZBleFuAd3CNE3qXkMN6L-7" target="ZBleFuAd3CNE3qXkMN6L-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZBleFuAd3CNE3qXkMN6L-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.002;entryY=0.125;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Work Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DWork%2BSans;" parent="1" source="ZBleFuAd3CNE3qXkMN6L-11" target="ZBleFuAd3CNE3qXkMN6L-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
